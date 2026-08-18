@@ -1,16 +1,23 @@
-## Hi there 👋
+# Christian Meyer
 
-<!--
-**mech-systems/mech-systems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Systems Engineer focused on Linux operations, automation,
+troubleshooting and practical LLM/RAG use cases.
 
-Here are some ideas to get you started:
+I use this profile to publish small, clean and reproducible technical
+projects around Linux, automation, documentation, troubleshooting and
+LLM-assisted workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus areas
+
+- Linux operations
+- Python automation
+- Ansible and reproducible infrastructure
+- Troubleshooting and log analysis
+- Retrieval Augmented Generation
+- LLM-assisted technical documentation
+
+## Publication policy
+
+All repositories on this profile use public, synthetic or self-created data only.
+No customer data, internal logs, confidential project material or company-specific
+information is published here.
