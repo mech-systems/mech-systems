@@ -1,5 +1,7 @@
 # Christian Meyer
 
+Public GitHub profile repository.
+
 Senior Systems Engineer focused on Linux operations, automation,
 troubleshooting and practical LLM/RAG use cases.
 
